@@ -13,8 +13,7 @@
 📌 Интуитивное управление - через стандартную админку Django
 
 🔗 Поддержка named URLs - возможность указывать URL как напрямую, так и через имя маршрута
-<br/>
-![image](https://github.com/user-attachments/assets/59bca413-939e-4eb3-91f2-d2d3dd4c1e4e)<br/>
-![image](https://github.com/user-attachments/assets/53ebdfc9-bfa4-41f5-84d4-88f498129e9b)<br/>
-![image](https://github.com/user-attachments/assets/19498a8d-47f9-44b0-b71d-55d3b5639e37)
+<br/><br/>
+![image](https://github.com/user-attachments/assets/59bca413-939e-4eb3-91f2-d2d3dd4c1e4e)
+
 
