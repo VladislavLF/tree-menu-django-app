@@ -15,6 +15,9 @@
 🔗 Поддержка named URLs - возможность указывать URL как напрямую, так и через имя маршрута
 <br/><br/>
 ![image](https://github.com/user-attachments/assets/59bca413-939e-4eb3-91f2-d2d3dd4c1e4e)
+
 ![image](https://github.com/user-attachments/assets/a5607842-d8a5-49f3-9336-02755a5503e5)
+
+![image](https://github.com/user-attachments/assets/598ec0b9-c7f9-4c51-86d7-706df2e58833)
 
 
