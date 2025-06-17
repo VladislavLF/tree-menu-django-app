@@ -1,0 +1,13 @@
+{% load static %}
+{% load menu_tags %}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{% block title %}{% endblock %}</title>
+    <link rel="stylesheet" href={% static "css/styles.css" %}>
+</head>
+<body>
+    {% draw_menu 'main_menu' %}
+    {% draw_menu 'sub_menu' %}
+</body>
+</html>
