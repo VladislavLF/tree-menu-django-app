@@ -1,18 +1,17 @@
-# tree-menu-django-app
-Веб-приложение на Django, реализующее древовидное меню с возможностью настройки через административную панель. Меню поддерживает неограниченный уровень вложенности, автоматическое определение активного пункта по URL и эффективную отрисовку с минимальным количеством запросов к БД.
+A Django web application implementing a tree-like menu with customizability via the admin panel. The menu supports unlimited nesting, automatic active item detection by URL, and efficient rendering with minimal database queries.
 
-**Особенности**<br/><br/>
-Гибкая структура - неограниченная вложенность пунктов меню
+**Features**<br/><br/>
+Flexible structure - unlimited menu item nesting
 
-Автоматическое определение активного пункта - по текущему URL страницы
+Automatic active item detection - by the current page URL
 
-Простое подключение - через template tag в любом месте шаблона
+Simple inclusion - via a template tag anywhere in the template
 
-Оптимизированная производительность - всего 1 запрос к БД для отрисовки меню
+Optimized performance - only one database query for menu rendering
 
-Интуитивное управление - через стандартную админку Django
+Intuitive management - via the standard Django admin panel
 
-Поддержка named URLs - возможность указывать URL как напрямую, так и через имя маршрута
+Named URL support - the ability to specify URLs directly or via a route name
 <br/><br/>
 ![image](https://github.com/user-attachments/assets/59bca413-939e-4eb3-91f2-d2d3dd4c1e4e)
 
