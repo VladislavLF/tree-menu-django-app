@@ -1,6 +1,6 @@
 A Django web application implementing a tree-like menu with customizability via the admin panel. The menu supports unlimited nesting, automatic active item detection by URL, and efficient rendering with minimal database queries.
 
-**Features**<br/><br/>
+## Features
 Flexible structure - unlimited menu item nesting
 
 Automatic active item detection - by the current page URL
